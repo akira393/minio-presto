@@ -1,0 +1,9 @@
+presto-cli-0.262-executable.jar
+presto-jdbc-0.262.jar
+presto-server-0.262.tar.gz
+server/bin
+server/lib
+server/plugin
+server/NOTICE
+server/README.txt
+
