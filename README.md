@@ -1,5 +1,5 @@
 don't work now
-Check here for details [it](# error)
+Check here for details [it](#error)
 # what's this repository
 
 This is a tutorial to get data from mysql with presto and save it in mino.
